@@ -1,3 +1,5 @@
 node_modules
 unit.xml
 .DS_Store
+.tsbuildinfo
+dist
