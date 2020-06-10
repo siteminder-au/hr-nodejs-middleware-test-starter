@@ -1,5 +1,5 @@
 node_modules
-unit.xml
+xunit.xml
 .DS_Store
 .tsbuildinfo
 dist

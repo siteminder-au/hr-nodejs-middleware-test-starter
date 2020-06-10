@@ -32,5 +32,10 @@
     "@types/typescript": "^2.0.0",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.5"
+  },
+  "mocha": {
+    "reporter": "mocha-multi-reporters",
+    "reporter-options": "reporter-config.json",
+    "recursive": true
   }
 }

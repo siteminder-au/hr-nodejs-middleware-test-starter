@@ -4,10 +4,10 @@ configuration:
   scoring:
     command: "npm test"
     files:
-      - unit.xml
+      - xunit.xml
   ide_config:
     default_open_files:
-      - app.js
+      - src/app.ts
     project_menu:
       run: npm start
       install: npm install
